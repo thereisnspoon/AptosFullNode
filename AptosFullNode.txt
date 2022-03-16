@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/aptos-labs/aptos-core/main/docker/compose
 
 wget https://devnet.aptoslabs.com/genesis.blob
 wget https://devnet.aptoslabs.com/waypoint.txt
-# gerekli dosyaları bu kodlarlar indiriyoruz.
+# gerekli dosyaları bu kodlarla indiriyoruz.
 
 docker compose up -d 
 # node başlatma
